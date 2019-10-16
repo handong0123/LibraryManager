@@ -1,0 +1,7 @@
+D:\school\class\C#\LibarayManage\DAL\bin\Release\DAL.dll
+D:\school\class\C#\LibarayManage\DAL\bin\Release\DAL.pdb
+D:\school\class\C#\LibarayManage\DAL\bin\Release\Model.dll
+D:\school\class\C#\LibarayManage\DAL\bin\Release\Model.pdb
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.dll
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.pdb

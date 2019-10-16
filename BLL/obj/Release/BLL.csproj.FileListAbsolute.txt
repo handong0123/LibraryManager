@@ -1,0 +1,9 @@
+D:\school\class\C#\LibarayManage\BLL\bin\Release\BLL.dll
+D:\school\class\C#\LibarayManage\BLL\bin\Release\BLL.pdb
+D:\school\class\C#\LibarayManage\BLL\bin\Release\DAL.dll
+D:\school\class\C#\LibarayManage\BLL\bin\Release\Model.dll
+D:\school\class\C#\LibarayManage\BLL\bin\Release\DAL.pdb
+D:\school\class\C#\LibarayManage\BLL\bin\Release\Model.pdb
+D:\school\class\C#\LibarayManage\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\school\class\C#\LibarayManage\BLL\obj\Release\BLL.dll
+D:\school\class\C#\LibarayManage\BLL\obj\Release\BLL.pdb

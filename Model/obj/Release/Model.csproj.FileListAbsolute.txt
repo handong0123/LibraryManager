@@ -1,0 +1,4 @@
+D:\school\class\C#\LibarayManage\Model\bin\Release\Model.dll
+D:\school\class\C#\LibarayManage\Model\bin\Release\Model.pdb
+D:\school\class\C#\LibarayManage\Model\obj\Release\Model.dll
+D:\school\class\C#\LibarayManage\Model\obj\Release\Model.pdb
